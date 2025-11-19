@@ -1,0 +1,13 @@
+email: ''
+ddos:
+  enabled: true
+  rate_limit: 100 # requêtes/minute
+  block_duration: 600 # secondes
+phishing:
+  enabled: true
+network:
+  enabled: true
+  port_scan_threshold: 10
+  traffic_anomaly_threshold: 10000
+log:
+  file: 'security.log'
