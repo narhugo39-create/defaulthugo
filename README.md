@@ -1,0 +1,2 @@
+# defaulthugo
+anti ddos
